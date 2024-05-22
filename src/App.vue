@@ -97,4 +97,10 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+*{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+</style>
